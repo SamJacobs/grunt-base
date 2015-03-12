@@ -1,0 +1,18 @@
+.red-box {
+  width: 300px;
+  height: 200px;
+  background: red;
+  color: white; }
+
+.blue-ball {
+  border-radius: 50%;
+  background: blue;
+  color: blue;
+  width: 200px;
+  height: 200px; }
+
+.green-square {
+  width: 200px;
+  height: 200px;
+  background: green;
+  color: white; }
